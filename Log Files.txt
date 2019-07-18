@@ -1,0 +1,6 @@
+Progress Log:
+
+*I will add in some notes from the previous day
+7/17/19: Thursday
+The drone arrived and we unpacked it at the office. It was love at first flight (which didn't happen until I figured out a glitch at home).
+We also set up TeamViewer 14 in an UP^2 box in the CH7 lab so that we can keep get some necessary files. Things are looking good!
